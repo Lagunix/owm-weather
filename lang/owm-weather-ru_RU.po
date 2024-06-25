@@ -500,31 +500,31 @@ msgstr "Цвет диаграммы облачности"
 
 #: owmweather-admin.php:873
 msgid "Chart Rain Chance Color"
-msgstr "Диаграмма Дождь Шанс Цвет"
+msgstr "Цвет диаграммы вероятности осадков"
 
 #: owmweather-admin.php:881
 msgid "Chart Humidity Color"
-msgstr "График влажности Цвет"
+msgstr "Цвет диаграммы  влажности"
 
 #: owmweather-admin.php:889
 msgid "Chart Pressure Color"
-msgstr "Цвет нажатия на график"
+msgstr "Цвет диаграммы давления"
 
 #: owmweather-admin.php:897
 msgid "Chart Rain Amount Color"
-msgstr "Диаграмма Количество дождя Цвет"
+msgstr "Цвет диаграммы количества осадков"
 
 #: owmweather-admin.php:905
 msgid "Chart Snow Amount Color"
-msgstr "График Количество снега Цвет"
+msgstr "Цвет диаграммы  количества снега"
 
 #: owmweather-admin.php:913
 msgid "Chart Wind Speed Color"
-msgstr "График скорости ветра Цвет"
+msgstr "Цвет диаграммы скорости ветра"
 
 #: owmweather-admin.php:921
 msgid "Chart Wind Gust Color"
-msgstr "График Цвет порыва ветра"
+msgstr "Цвет диаграммы порывов ветра"
 
 #: owmweather-admin.php:930
 msgid "Weather-based Settings"
@@ -532,43 +532,43 @@ msgstr "Настройки на основе погоды"
 
 #: owmweather-admin.php:937 owmweather.php:1539
 msgid "Sunny Text Color"
-msgstr "Солнечный цвет текста"
+msgstr "Цвет текста солнечной погоды"
 
 #: owmweather-admin.php:945 owmweather.php:1543
 msgid "Sunny Background Color"
-msgstr "Солнечный цвет фона"
+msgstr "Цвет фона солнечной погоды"
 
 #: owmweather-admin.php:953 owmweather.php:1547
 msgid "Sunny Background Image"
-msgstr "Солнечное фоновое изображение"
+msgstr "Фоновое изображение солнечной погоды"
 
 #: owmweather-admin.php:961
 msgid "Sunny Background YouTube Video"
-msgstr "Солнечный фон видео на YouTube"
+msgstr "Фон видео YouTube солнечной погоды"
 
 #: owmweather-admin.php:969 owmweather.php:1567
 msgid "Cloudy Text Color"
-msgstr "Мутный цвет текста"
+msgstr "Цвет текста облачности"
 
 #: owmweather-admin.php:977 owmweather.php:1571
 msgid "Cloudy Background Color"
-msgstr "Мутный цвет фона"
+msgstr "Цвет фона облачности"
 
 #: owmweather-admin.php:985 owmweather.php:1575
 msgid "Cloudy Background Image"
-msgstr "Фоновое изображение"
+msgstr "Фоновое изображение облачности"
 
 #: owmweather-admin.php:993
 msgid "Cloudy Background YouTube Video"
-msgstr "Облачный фон видео на YouTube"
+msgstr "Фон видео YouTube облачности"
 
 #: owmweather-admin.php:1001 owmweather.php:1595
 msgid "Drizzly Text Color"
-msgstr "Моросящий цвет текста"
+msgstr "Цвет текста моросящего дождя"
 
 #: owmweather-admin.php:1009 owmweather.php:1599
 msgid "Drizzly Background Color"
-msgstr "Моросящий цвет фона"
+msgstr "Цвет фона моросящего дождя"
 
 #: owmweather-admin.php:1017 owmweather.php:1603
 msgid "Drizzly Background Image"
@@ -576,7 +576,7 @@ msgstr "Фоновое изображение моросящего дождя"
 
 #: owmweather-admin.php:1025
 msgid "Drizzly Background YouTube Video"
-msgstr "Фоновое видео Drizzly на YouTube"
+msgstr "Фоновое видео YouTube моросящего дождя"
 
 #: owmweather-admin.php:1033 owmweather.php:1623
 msgid "Rainy Text Color"
