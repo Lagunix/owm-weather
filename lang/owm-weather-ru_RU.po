@@ -2302,11 +2302,11 @@ msgstr "Порыв Ветра"
 
 #: owmweather.php:4779
 msgid "Hourly wind speed"
-msgstr "Часовая скорость ветра"
+msgstr "Почасовая скорость ветра"
 
 #: owmweather.php:4872
 msgid "daily Temperatures"
-msgstr "Ежедневные (среднесуточные) температуры"
+msgstr "Ежедневная (среднесуточная) температура"
 
 #: owmweather.php:4980
 msgid "daily precipitation"
@@ -2421,7 +2421,7 @@ msgstr ""
 
 #: owmweather.php:5727
 msgid "OWM Weather: Create my first weather."
-msgstr "OWM Weather: Создай свою первую погоду."
+msgstr "OWM Weather: Создать мою первую погоду."
 
 #: owmweather.php:5744
 msgid "Now"
@@ -2489,19 +2489,19 @@ msgstr "Сильный шторм"
 
 #: owmweather.php:5905
 msgid "Whole Gale/Storm"
-msgstr "Весь шторм/шторм"
+msgstr "Полная штормовая  буря"
 
 #: owmweather.php:5906
 msgid "Strong Gale"
-msgstr "Сильный шторм"
+msgstr "Сильная буря"
 
 #: owmweather.php:5907
 msgid "Gale"
-msgstr "Шторм"
+msgstr "Буря"
 
 #: owmweather.php:5908
 msgid "Near Gale"
-msgstr "Поблизости: Шторм"
+msgstr "Почти буря"
 
 #: owmweather.php:5909
 msgid "Strong Breeze"
@@ -2525,7 +2525,7 @@ msgstr "Легкий бриз"
 
 #: owmweather.php:5914
 msgid "Light Air"
-msgstr "Легкий воздух"
+msgstr "Легкий ветерок"
 
 #: owmweather.php:5915
 msgid "Calm"
@@ -2830,7 +2830,7 @@ msgstr "Выберите пост о погоде:"
 #~ "теме."
 
 #~ msgid "Enter your API key, if you have one."
-#~ msgstr "Введите свой ключ API, если он у вас есть."
+#~ msgstr "Введите свой ключ API, если вы его имеете."
 
 #~ msgid "Goto Settings / OWM Weather."
 #~ msgstr "Выберите Настройки / OWM Weather."
@@ -2889,7 +2889,7 @@ msgstr "Выберите пост о погоде:"
 #~ "automatically bypass the Zip and Country fields."
 #~ msgstr ""
 #~ "Если вы введете Id города OpenWeatherMap или широту/долготу, это "
-#~ "автоматически отменит поля Индекс и Страна."
+#~ "автоматически отменит поля индекса и страны."
 
 #~ msgid ""
 #~ "If you enter an OpenWeatherMap City Id, it will automatically bypass the "
