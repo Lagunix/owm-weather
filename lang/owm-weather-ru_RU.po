@@ -121,7 +121,7 @@ msgstr "Импорт"
 
 #: owmweather-admin.php:171
 msgid "Reset Settings"
-msgstr "Настройки сбоса"
+msgstr "Настройки сброса"
 
 #: owmweather-admin.php:173
 msgid ""
