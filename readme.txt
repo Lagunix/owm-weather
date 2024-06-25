@@ -1,3 +1,5 @@
+Русский перевод сделан мной во времена присутствия этого плагина на площадке WordPress (до изгнания автором). Последние правки перевода - 06-2024.
+
 === OWM Weather ===
 Contributors: rainbowgeek, uwejacobs, ccdzine
 Donate link: paypal.me/ujsoftware
