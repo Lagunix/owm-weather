@@ -412,19 +412,19 @@ msgstr "Пользовательский CSS"
 
 #: owmweather-admin.php:698
 msgid "Tabbed Button Text Color"
-msgstr "Цвет текста кнопки с вкладками"
+msgstr "Цвет текста кнопки со вкладками"
 
 #: owmweather-admin.php:706
 msgid "Tabbed Button Background Color"
-msgstr "Цвет фона кнопки с вкладками"
+msgstr "Цвет фона кнопки со вкладками"
 
 #: owmweather-admin.php:713
 msgid "Tabbed Button Active Color"
-msgstr "Кнопка с вкладками Активный цвет"
+msgstr "Кнопка со вкладками Активный цвет"
 
 #: owmweather-admin.php:720
 msgid "Tabbed Button Hover Color"
-msgstr "Цвет наведения кнопки с вкладками"
+msgstr "Цвет наведения кнопки со вкладками"
 
 #: owmweather-admin.php:728
 msgid "Table Background Color"
@@ -432,7 +432,7 @@ msgstr "Фон таблицы"
 
 #: owmweather-admin.php:736
 msgid "Table Text Color"
-msgstr "Table Text Color"
+msgstr "Цвет текста таблицы"
 
 #: owmweather-admin.php:744
 msgid "Table Border Color"
@@ -452,15 +452,15 @@ msgstr "Радиус рамки таблицы"
 
 #: owmweather-admin.php:777
 msgid "Chart Height"
-msgstr "Высота графика"
+msgstr "Высота диаграммы"
 
 #: owmweather-admin.php:785
 msgid "Chart Text Color"
-msgstr "Цвет текста таблицы"
+msgstr "Цвет текста диаграммы"
 
 #: owmweather-admin.php:793
 msgid "Chart Night Highlight Color"
-msgstr "График Ночной цвет подсветки"
+msgstr "Ночной цвет подсветки диаграммы"
 
 #: owmweather-admin.php:801
 msgid "Chart Background Color"
@@ -484,19 +484,19 @@ msgstr "Радиус границы диаграммы"
 
 #: owmweather-admin.php:841
 msgid "Chart Temperature Color"
-msgstr "График температуры цвета"
+msgstr "Цвет диаграммы температуры"
 
 #: owmweather-admin.php:849
 msgid "Chart Feels-Like Color"
-msgstr "Диаграмма ощущается как цвет"
+msgstr "Цвет диаграммы ощущений"
 
 #: owmweather-admin.php:857
 msgid "Chart Dew Point Color"
-msgstr "Показать точку росы"
+msgstr "Цвет диаграммы точки росы"
 
 #: owmweather-admin.php:865
 msgid "Chart Cloudiness Color"
-msgstr "Облачность"
+msgstr "Цвет диаграммы облачности"
 
 #: owmweather-admin.php:873
 msgid "Chart Rain Chance Color"
